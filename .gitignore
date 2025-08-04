@@ -1,0 +1,18 @@
+# Arquivos compilados
+*.class
+
+# Diretórios binários
+/bin/
+out/
+
+# Configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+
+# Outros
+.DS_Store
